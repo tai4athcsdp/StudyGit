@@ -1,2 +1,3 @@
 Tai: Hi, This is text file 1
 Tai: Tai Edit line 2 -  text file 1
+Tai: Tai Edit line 3
